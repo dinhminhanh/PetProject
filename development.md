@@ -5,7 +5,7 @@
 * Start the local stack with Docker Compose:
 
 ```bash
-docker compose watch
+`docker compose watch`
 ```
 
 * Now you can open your browser and interact with these URLs:
